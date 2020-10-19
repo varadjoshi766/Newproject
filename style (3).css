@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+#games{
+    width: 100%;
+    height: 800px;
+    background-color: purple;
+}
+
+img{
+transition: transform .2s;
+}
+
+h1 {
+
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
